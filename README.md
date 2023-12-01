@@ -1,4 +1,4 @@
-# MathVista
+# Relational Auto-Differentiation
 
 This website is adapted from the [MathVista website](https://mathvista.github.io/) which was in turn adapted from the [Nerfies website](https://nerfies.github.io).
 
